@@ -1,0 +1,2 @@
+class UserWhereInput {}
+export { UserWhereInput };
